@@ -1,5 +1,7 @@
 h,t,a,b,c = [int(i) for i in input().split()]
 
+print("Started")
+
 bites = 0
 killed = False
 
